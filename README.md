@@ -6,5 +6,5 @@ Predicting the proton fluxes of solar cosmic rays in a wide range of energies is
 
 You can get some information about software implementation og this project in project Wiki. Full text of my graduation work will be available soon.
 
-started in May 2017
-presented in May 2018
+_started in May 2017_<br />
+_presented in May 2018_
