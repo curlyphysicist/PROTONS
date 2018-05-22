@@ -9,4 +9,4 @@ You can get some information about software implementation og this project in pr
 _started in May 2017_<br />
 _presented in May 2018_
 
-_Author: Shishkova Svetlana_
+_Author: Svetlana Shishkova_
