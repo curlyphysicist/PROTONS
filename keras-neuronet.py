@@ -33,8 +33,8 @@ time = t.split(' ')
 time = [int(h) for h in time]
 
 
-JSONparam = "../models/params/FINAL_EVENTS/Ph15+DST-%sh-%sMeV.json" % (time, channels)       # saving the model
-H5bestparam = "../models/params/FINAL_EVENTS/Ph15+DST-best-%sh-%sMeV.h5" % (time, channels)  # saving the weights of the BEST model
+JSONparam = "../models/FINAL_EVENTS/Ph15+DST-%sh-%sMeV.json" % (time, channels)       # saving the model
+H5bestparam = "../models/FINAL_EVENTS/Ph15+DST-best-%sh-%sMeV.h5" % (time, channels)  # saving the weights of the BEST model
 
 file = '../прогнозы/FINAL_EVENTS/Ph15+DST-%sMeV-%sh.csv' % (channels, time)      # PPh15 - protons, parameters, hours, 15min.
 #info = '../прогнозы/FINAL_EVENTS/Ph15+DST-%sMeV-%sh.txt' % (channels, time)   # Для записи статистики в процессе обучения
