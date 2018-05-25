@@ -31,8 +31,8 @@ time = t.split(' ')
 time = [int(h) for h in time]
 
 
-JSONparam = "../models/params/FINAL_EVENTS/Ph15+DST-%sh-%sMeV.json" % (time, channels)
-H5bestparam = "../models/params/FINAL_EVENTS/Ph15+DST-best-%sh-%sMeV.h5" % (time, channels)
+JSONparam = "../models/FINAL_EVENTS/Ph15+DST-%sh-%sMeV.json" % (time, channels)
+H5bestparam = "../models/FINAL_EVENTS/Ph15+DST-best-%sh-%sMeV.h5" % (time, channels)
 
 file = '../прогнозы/FINAL_EVENTS/Ph15+DST-%sMeV-%sh.csv' % (channels, time)
 
