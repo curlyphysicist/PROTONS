@@ -4,7 +4,7 @@ bachelor's graduation work
 
 Predicting the proton fluxes of solar cosmic rays in a wide range of energies is an actual problem since these flows have a significant effect on the radiation conditions in outer space. Therefore, the creation of an automatic system capable of predicting the dynamics of solar proton events is necessary for global on-line forecasting of space weather.
 
-More information can be obtained from the project Wiki. Full text of my graduation work will be available soon.
+More information can be obtained from the project Wiki.
 
 _started in May 2017_<br />
 _presented in May 2018_
